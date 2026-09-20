@@ -63,8 +63,8 @@ A simple **menu-driven Python console application** that helps a small shop owne
 4. Sell Product
 5. Check Low Stock
 6. Sales Summary
-7. Sort Products by Price (bonus)
-8. Search by Name (bonus)
+7. Sort Products by Price
+8. Search by Name 
 9. Exit
 
 Enter your choice:
@@ -74,7 +74,7 @@ Enter your choice:
 
 ## 📸 Screenshots
 
-> Full walkthrough with all screenshots and captions is available in [`Mini_Shop_System_Report.pdf`](./Mini_Shop_System_Report.pdf).
+> All screenshots and captions is available in [`Mini_Shop_System_Report.pdf`](./Mini_Shop_System_Report.pdf).
 
 ---
 
