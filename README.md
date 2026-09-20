@@ -74,15 +74,6 @@ Enter your choice:
 
 ## 📸 Screenshots
 
-| Feature | Preview |
-|---|---|
-| Adding a Product | `screenshots/Add_product_glass.png` |
-| Viewing Products | `screenshots/view_product.png` |
-| Searching a Product | `screenshots/Screenshot_2026-09-20_174659.png` |
-| Selling a Product | `screenshots/Screenshot_2026-09-20_180136.png` |
-| Low Stock Report | `screenshots/Screenshot_2026-09-20_180435.png` |
-| Sales Summary | `screenshots/Screenshot_2026-09-20_180604.png` |
-
 > Full walkthrough with all screenshots and captions is available in [`Mini_Shop_System_Report.pdf`](./Mini_Shop_System_Report.pdf).
 
 ---
@@ -105,6 +96,4 @@ This project was built as part of a Python fundamentals assignment, with the goa
 
 ---
 
-## 📝 License
 
-This project is free to use for learning and educational purposes.
