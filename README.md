@@ -39,14 +39,14 @@ A simple **menu-driven Python console application** that helps a small shop owne
 
 1. Make sure you have **Python 3** installed.
 2. Clone this repository:
-   ```bash
-  git clone https://github.com/ShamalMushtaq/python-mini-shop-management-system.git
-cd python-mini-shop-management-system
-   ```
+```bash
+   git clone https://github.com/ShamalMushtaq/python-mini-shop-management-system.git
+   cd python-mini-shop-management-system
+```
 3. Run the program:
-   ```bash
+```bash
    python3 mini_shop_system.py
-   ```
+```
 
 ---
 
